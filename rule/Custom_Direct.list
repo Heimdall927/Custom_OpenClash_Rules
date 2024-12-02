@@ -5,6 +5,11 @@
 # 部分域名可能和中国大陆域名列表存在重叠
 # 规则内容较少，不会影响性能，请放心使用
 
+#自行添加
+DOMAIN-SUFFIX,erji.net
+DOMAIN-SUFFIX,zhibodou.com
+DOMAIN-SUFFIX,linux.do
+
 # ImmortalWrt 在线更新服务
 #DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 # ImmortalWrt 软件仓库
